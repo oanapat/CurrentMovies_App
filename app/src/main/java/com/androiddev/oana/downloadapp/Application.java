@@ -12,7 +12,6 @@ public class Application {
 
     //save a record an grab the content
 
-
     public String getName() {
         return name;
     }
